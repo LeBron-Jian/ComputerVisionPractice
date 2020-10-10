@@ -12,3 +12,9 @@
 关于 ImageProcessing_2的图片和代码，详情请参考博客:
 - OpenCV计算机视觉学习（2）——图像算术运算 & 掩膜mask操作（数值计算，图像融合，边界填充）
     - 地址：https://www.cnblogs.com/wj-1314/p/9592346.html
+
+***
+## ImageProcessing_3 注解
+关于 ImageProcessing_3的图片和代码，详情请参考博客:
+- OpenCV计算机视觉学习（3）——图像灰度线性变换与非线性变换（对数变换，伽马变换））
+    - 地址：https://www.cnblogs.com/wj-1314/p/13043794.html
