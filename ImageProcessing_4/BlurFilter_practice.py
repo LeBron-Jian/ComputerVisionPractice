@@ -8,7 +8,7 @@ def blur_filter_func(filename):
     rgbimg = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
     # 均值滤波: 简单的平均卷积操作
-    result = cv2.blur(rgbimg, (5, 5))
+    result = cv2.blur(img, (5, 5))
     # 显示图像
     titles = ['origin image', 'blur image']
     images = [rgbimg, result]
