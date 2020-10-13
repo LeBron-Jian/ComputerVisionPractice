@@ -18,3 +18,9 @@
 关于 ImageProcessing_3的图片和代码，详情请参考博客:
 - OpenCV计算机视觉学习（3）——图像灰度线性变换与非线性变换（对数变换，伽马变换））
     - 地址：https://www.cnblogs.com/wj-1314/p/13043794.html
+
+***
+## ImageProcessing_4 注解
+关于 ImageProcessing_4的图片和代码，详情请参考博客:
+- OpenCV计算机视觉学习（4）——图像平滑处理（均值滤波，高斯滤波，中值滤波，双边滤波）
+    - 地址：https://www.cnblogs.com/wj-1314/p/11693364.html
