@@ -10,7 +10,7 @@
 ***
 ## ImageProcessing_2 注解
 关于 ImageProcessing_2的图片和代码，详情请参考博客:
-- OpenCV计算机视觉学习（2）——图像算术运算 & 掩膜mask操作（数值计算，图像融合，边界填充）
+- OpenCV计算机视觉学习（2）——图像算术运算 &图像阈值（数值计算，掩膜mask操作，边界填充，二值化）
     - 地址：https://www.cnblogs.com/wj-1314/p/9592346.html
 
 ***
