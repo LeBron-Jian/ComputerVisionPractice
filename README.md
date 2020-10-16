@@ -24,3 +24,9 @@
 关于 ImageProcessing_4的图片和代码，详情请参考博客:
 - OpenCV计算机视觉学习（4）——图像平滑处理（均值滤波，高斯滤波，中值滤波，双边滤波）
     - 地址：https://www.cnblogs.com/wj-1314/p/11693364.html
+
+***
+## ImageProcessing_5 注解
+关于 ImageProcessing_5的图片和代码，详情请参考博客:
+- OpenCV计算机视觉学习（5）——形态学处理（腐蚀膨胀，开闭运算，礼帽黑帽，边缘检测）
+    - 地址：https://www.cnblogs.com/wj-1314/p/12084636.html
