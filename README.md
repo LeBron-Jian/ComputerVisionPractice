@@ -30,3 +30,9 @@
 关于 ImageProcessing_5的图片和代码，详情请参考博客:
 - OpenCV计算机视觉学习（5）——形态学处理（腐蚀膨胀，开闭运算，礼帽黑帽，边缘检测）
     - 地址：https://www.cnblogs.com/wj-1314/p/12084636.html
+
+***
+## ImageProcessing_6 注解
+关于 ImageProcessing_6的图片和代码，详情请参考博客:
+- OpenCV计算机视觉学习（6）——图像梯度计算&边缘检测（Sobel算子，scharr算法，Laplacian算子，Canny算子）
+    - 地址：https://www.cnblogs.com/wj-1314/p/9800272.html
