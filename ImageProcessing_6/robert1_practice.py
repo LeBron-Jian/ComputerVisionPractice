@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
   
 #读取图像
-img = cv2.imread('lena.png')
+img = cv2.imread('lena.jpg')
 lenna_img = cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
  
 #灰度化处理图像
