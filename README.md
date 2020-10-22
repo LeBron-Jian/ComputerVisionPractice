@@ -40,6 +40,6 @@
 ***
 ## ImageProcessing_7 注解
 关于 ImageProcessing_7的图片和代码，详情请参考博客:
-- OpenCV计算机视觉学习（7）——图像金字塔
+- OpenCV计算机视觉学习（7）——图像金字塔（高斯金字塔，拉普拉斯金字塔，图像缩放）
     - 地址：https://www.cnblogs.com/wj-1314/p/11981974.html
 
