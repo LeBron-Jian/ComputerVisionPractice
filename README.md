@@ -36,3 +36,10 @@
 关于 ImageProcessing_6的图片和代码，详情请参考博客:
 - OpenCV计算机视觉学习（6）——图像梯度计算&边缘检测（Sobel算子，scharr算法，Laplacian算子，Canny算子）
     - 地址：https://www.cnblogs.com/wj-1314/p/9800272.html
+    
+***
+## ImageProcessing_7 注解
+关于 ImageProcessing_7的图片和代码，详情请参考博客:
+- OpenCV计算机视觉学习（7）——图像金字塔
+    - 地址：https://www.cnblogs.com/wj-1314/p/11981974.html
+
