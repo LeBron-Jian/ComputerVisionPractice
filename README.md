@@ -43,3 +43,11 @@
 - OpenCV计算机视觉学习（7）——图像金字塔（高斯金字塔，拉普拉斯金字塔）
     - 地址：https://www.cnblogs.com/wj-1314/p/11981974.html
 
+***
+## ImageProcessing_8 注解
+关于 ImageProcessing_8的图片和代码，详情请参考博客:
+- OpenCV计算机视觉学习（8）——图像轮廓处理（轮廓绘制，轮廓检索，轮廓填充，轮廓近似）
+    - 地址：https://www.cnblogs.com/wj-1314/p/11510789.html
+    
+    
+    
