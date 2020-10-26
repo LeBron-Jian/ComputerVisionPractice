@@ -50,4 +50,10 @@
     - 地址：https://www.cnblogs.com/wj-1314/p/11510789.html
     
     
+***
+***
+## ImageProcessingPractice1 注解
+关于 ImageProcessingPractice1的图片和代码，详情请参考博客:
+- 深入学习OpenCV中图像相似度的算法（比对像素方差，感知哈希算法，模板匹配，OpenCV的安装）
+    - 地址：https://www.cnblogs.com/wj-1314/p/9472962.html
     
