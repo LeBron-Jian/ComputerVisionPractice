@@ -49,6 +49,12 @@
 - OpenCV计算机视觉学习（8）——图像轮廓处理（轮廓绘制，轮廓检索，轮廓填充，轮廓近似）
     - 地址：https://www.cnblogs.com/wj-1314/p/11510789.html
     
+***
+## ImageProcessing_9 注解
+关于 ImageProcessing_9的图片和代码，详情请参考博客:
+- OpenCV计算机视觉学习（9）——图像直方图 & 直方图均衡化
+    - 地址：https://www.cnblogs.com/wj-1314/p/9444056.html
+    
     
 ***
 ***
