@@ -55,6 +55,12 @@
 - OpenCV计算机视觉学习（9）——图像直方图 & 直方图均衡化
     - 地址：https://www.cnblogs.com/wj-1314/p/9444056.html
     
+***
+## ImageProcessing_10 注解
+关于 ImageProcessing_10的图片和代码，详情请参考博客:
+- OpenCV计算机视觉学习（10）——图像变换（傅里叶变换，高通滤波，低通滤波）
+    - 地址：https://www.cnblogs.com/wj-1314/p/11983496.html#top
+    
     
 ***
 ***
