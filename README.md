@@ -64,6 +64,8 @@
     
 ***
 ***
+## opencv 实战
+***
 ***
 ## ImageProcessingPractice1 注解
 关于 ImageProcessingPractice1的图片和代码，详情请参考博客:
@@ -77,6 +79,11 @@
     - 地址：https://www.cnblogs.com/wj-1314/p/9578493.html
     
     
+***
+## ImageProcessingPractice3 注解
+关于 ImageProcessingPractice3的图片和代码，详情请参考博客:
+- tensorflow学习笔记——图像数据增强（+python版）
+    - 地址：https://www.cnblogs.com/wj-1314/p/11331708.html
     
     
     
