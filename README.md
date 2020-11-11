@@ -85,5 +85,11 @@
 - tensorflow学习笔记——图像数据增强（+python版）
     - 地址：https://www.cnblogs.com/wj-1314/p/11331708.html
     
+***
+## ImageProcessingPractice4 注解
+关于 ImageProcessingPractice4的图片和代码，详情请参考博客:
+- 深入学习OpenCV文档扫描及OCR识别（文档扫描，图像矫正，透视变换，OCR识别）
+    - 地址：https://www.cnblogs.com/wj-1314/p/11975977.html
+    
     
     
