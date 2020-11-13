@@ -59,7 +59,13 @@
 ## ImageProcessing_10 注解
 关于 ImageProcessing_10的图片和代码，详情请参考博客:
 - OpenCV计算机视觉学习（10）——图像变换（傅里叶变换，高通滤波，低通滤波）
-    - 地址：https://www.cnblogs.com/wj-1314/p/11983496.html#top
+    - 地址：https://www.cnblogs.com/wj-1314/p/11983496.html
+
+***
+## ImageProcessing_11 注解
+关于 ImageProcessing_11的图片和代码，详情请参考博客:
+- OpenCV计算机视觉学习（11）——图像几何变换（图像缩放，图像旋转，图像翻转，图像平移，仿射变换，镜像变换，透视变换）
+    - 地址：https://www.cnblogs.com/wj-1314/p/12166917.html
     
     
 ***
