@@ -67,6 +67,13 @@
 - OpenCV计算机视觉学习（11）——图像几何变换（图像缩放，图像旋转，图像翻转，图像平移，仿射变换，镜像变换，透视变换）
     - 地址：https://www.cnblogs.com/wj-1314/p/12166917.html
     
+
+***
+## ImageProcessing_12 注解
+关于 ImageProcessing_12的图片和代码，详情请参考博客:
+- OpenCV计算机视觉学习（12）——图像量化处理&图像采样处理（K-Means聚类量化，局部马赛克处理）
+    - 地址：https://www.cnblogs.com/wj-1314/p/12191084.html
+    
     
 ***
 ***
