@@ -82,26 +82,26 @@
 ***
 ## ImageProcessingPractice1 注解
 关于 ImageProcessingPractice1的图片和代码，详情请参考博客:
-- 深入学习OpenCV中图像相似度的算法（比对像素方差，感知哈希算法，模板匹配，OpenCV的安装）
+- OpenCV实战（1）——图像相似度算法（比对像素方差，感知哈希算法，模板匹配（OCR数字匹配），OpenCV的安装）
     - 地址：https://www.cnblogs.com/wj-1314/p/9472962.html
     
 ***
 ## ImageProcessingPractice2 注解
 关于 ImageProcessingPractice2的图片和代码，详情请参考博客:
-- 深入学习OpenCV检测及分割图像的目标区域
+- OpenCV实战（2）——检测及分割图像的目标区域
     - 地址：https://www.cnblogs.com/wj-1314/p/9578493.html
     
     
 ***
 ## ImageProcessingPractice3 注解
 关于 ImageProcessingPractice3的图片和代码，详情请参考博客:
-- tensorflow学习笔记——图像数据增强（+python版）
+- tensorflow学习笔记（OpenCV实战3）——图像数据增强（+python版）
     - 地址：https://www.cnblogs.com/wj-1314/p/11331708.html
     
 ***
 ## ImageProcessingPractice4 注解
 关于 ImageProcessingPractice4的图片和代码，详情请参考博客:
-- 深入学习OpenCV文档扫描及OCR识别（文档扫描，图像矫正，透视变换，OCR识别）
+- OpenCV实战（4）——文档扫描OCR识别&答题卡识别判卷（文档扫描，图像矫正，透视变换，OCR识别）
     - 地址：https://www.cnblogs.com/wj-1314/p/11975977.html
     
     
