@@ -1,6 +1,6 @@
 # ComputerVisionPratiace
 
-## 这里存放自己opencv练习的代码与图片，方便想要用的盆友
+## 这里存放自己图像处理中练习的代码与图片，方便想要用的盆友
 ***
 ## ImageProcessing_1 注解
 关于 ImageProcessing_1的图片和代码，详情请参考博客:
@@ -115,6 +115,24 @@
 关于 ImageProcessingPractice4的图片和代码，详情请参考博客:
 - OpenCV实战（4）——文档扫描OCR识别&答题卡识别判卷（文档扫描，图像矫正，透视变换，OCR识别）
     - 地址：https://www.cnblogs.com/wj-1314/p/11975977.html
-    
-    
+
+
+***
+***
+## VisionPro学习笔记
+***
+***
+### 在自己熟悉了Cognex的软化VisionPro后，我觉得自己也可以逐步将这个软件的使用，一些图像处理的方法share出来，在我有空的时候，我会逐步share自己的笔记，同样将目录整理到这个仓库下面。我觉得只是靠一些Opencv实战的文章不足以让自己对图像处理深入了解。而且要想深入视觉，必须对前沿的软件中的一些原理深入了解。这也是自己分享这个的原因。
+
+***
+## VisionPro学习笔记1
+- VisionPro学习笔记（1）——软件介绍和基本使用
+    - 地址：[https://www.cnblogs.com/wj-1314/p/11975977.html](https://www.cnblogs.com/wj-1314/p/17121301.html)
+ 
+***
+## VisionPro学习笔记2
+- VisionPro学习笔记（2）——图像转换工具ImageCovertTool
+    - 地址：https://www.cnblogs.com/wj-1314/p/17504248.html
+ 
+
     
