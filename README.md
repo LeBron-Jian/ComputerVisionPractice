@@ -81,7 +81,11 @@
 - OpenCV计算机视觉学习（13）——图像特征点检测（Harris角点检测，sift算法）
     - 地址：https://www.cnblogs.com/wj-1314/p/13364875.html
     
-
+***
+## ImageProcessing_14 注解
+关于 ImageProcessing_14的图片和代码，详情请参考博客:
+- OpenCV计算机视觉学习（14）——浅谈常见图像后缀（png, jpg, bmp）的区别（opencv读取语义分割mask的坑） 
+    - 地址：https://www.cnblogs.com/wj-1314/p/17507400.html
 
 ***
 ***
