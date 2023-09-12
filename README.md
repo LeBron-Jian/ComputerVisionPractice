@@ -134,5 +134,9 @@
 - VisionPro学习笔记（2）——图像转换工具ImageCovertTool
     - 地址：https://www.cnblogs.com/wj-1314/p/17504248.html
  
-
+***
+## VisionPro学习笔记3
+- VisionPro学习笔记（3）——BeadInspectTool
+    - 地址：https://www.cnblogs.com/wj-1314/p/11323013.html
+ 
     
