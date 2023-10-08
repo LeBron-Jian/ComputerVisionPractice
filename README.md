@@ -138,5 +138,8 @@
 ## VisionPro学习笔记3
 - VisionPro学习笔记（3）——BeadInspectTool
     - 地址：https://www.cnblogs.com/wj-1314/p/11323013.html
- 
-    
+
+***
+## VisionPro学习笔记4
+- VisionPro学习笔记（4）——PatInspect
+    - 地址：https://www.cnblogs.com/wj-1314/p/10769155.html
