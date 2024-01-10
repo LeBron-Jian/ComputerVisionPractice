@@ -156,3 +156,8 @@
 ## VisionPro学习笔记5
 - VisionPro学习笔记（5）——PolarUnwrapTool 
     - 地址：https://www.cnblogs.com/wj-1314/p/17833979.html
+
+***
+## VisionPro学习笔记6
+- VisionPro学习笔记（6）——如何使用QuickBuild
+    - 地址：https://www.cnblogs.com/wj-1314/p/17880927.html
