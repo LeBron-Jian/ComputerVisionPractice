@@ -96,6 +96,13 @@
     - 地址：https://www.cnblogs.com/wj-1314/p/17507400.html
 
 ***
+## ImageProcessing_15 注解
+关于 ImageProcessing_15的图片和代码，详情请参考博客:
+- OpenCV计算机视觉学习（15）——浅谈图像处理的饱和运算和取模运算
+    - 地址：https://www.cnblogs.com/wj-1314/p/17923191.html
+
+
+***
 ***
 ## opencv 实战
 ***
