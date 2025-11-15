@@ -101,6 +101,9 @@
 - OpenCV计算机视觉学习（15）——浅谈图像处理的饱和运算和取模运算
     - 地址：https://www.cnblogs.com/wj-1314/p/17923191.html
 
+- OpenCV计算机视觉学习（16）——仿射变换学习笔记
+    - 地址：https://www.cnblogs.com/wj-1314/p/17633789.html
+
 
 ***
 ***
